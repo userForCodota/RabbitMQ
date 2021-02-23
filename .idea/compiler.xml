@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="RabbitMQ-API" target="8" />
+      <module name="RabbitMQ-API" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
